@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-What is it all about
+What is it all about. Updated with some more information. 
 
 ## Getting Started
 

@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'spurv.io',
   tagline: 'Unlock the power in your water heater',
-  url: 'https://www.spurv.io',
+  url: 'https://spurv-io.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
-  organizationName: 'spurv', // Usually your GitHub org/user name.
-  projectName: 'spurv.io', // Usually your repo name.
+  organizationName: 'spurv-io', // Usually your GitHub org/user name.
+  projectName: 'spurv-io.github.io', // Usually your repo name.
 
   presets: [
     [
